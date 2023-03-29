@@ -1,4 +1,4 @@
-# ADR [number]: [Title]
+# ADR (Architectural Decisions Record) [number]: [Title]
 
 ## Context
 
